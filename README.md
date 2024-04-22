@@ -4,6 +4,12 @@ Hi, welcome to my profile :coffee:
 
 ## About me
 Hi, I'm Lautaro, a full stack software developer with a focus on front-end development and user experience. My strong suit lies in technologies like TypeScript and JavaScript, and I work with frameworks such as React and Node.js. I enjoy challenging myself to learn new technologies and strive to be constantly growing.
+#### interests
+- ⌨️ Write code
+- 🏋️‍♂️ training
+- ♟️ Chess
+- 🎸 Music
+
 ## Technologies 
 ### Programming Languages
 <div align="left">
@@ -65,10 +71,11 @@ Hi, I'm Lautaro, a full stack software developer with a focus on front-end devel
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+---
 
-<img src="https://raw.githubusercontent.com/Lautaro-R-collins/Lautaro-R-collins/output/snake.svg" alt="Snake animation" />
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautaro-R-collins&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ###
+---
 
 ## Contact me
 <div align="left">
