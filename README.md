@@ -73,8 +73,13 @@ Hi, I'm Lautaro, a full stack software developer with a focus on front-end devel
 </div>
 
 -------------
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautaro-R-collins&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg" />
+
+  
 -------------
 
 ## Contact me
