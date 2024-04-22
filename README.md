@@ -1,5 +1,5 @@
 Hi, welcome to my profile :coffee:
-------------
+-------------
 ![Lautarodevelops](./Lautaro.png)
 
 ## About me
@@ -71,11 +71,11 @@ Hi, I'm Lautaro, a full stack software developer with a focus on front-end devel
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-###
----
+
+-------------
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautaro-R-collins&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-###
----
+
+-------------
 
 ## Contact me
 <div align="left">
