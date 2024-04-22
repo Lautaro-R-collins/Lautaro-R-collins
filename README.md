@@ -1,5 +1,6 @@
-### Welcome to my profile :office:
-<!--
+### Welcome to my profile
+<!--![Lautaro](https://github.com/Lautaro-R-collins/Lautaro-R-collins/assets/135086443/55fb6704-b943-427c-8a79-86894a88f409)
+
 **Lautaro-R-collins/Lautaro-R-collins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
