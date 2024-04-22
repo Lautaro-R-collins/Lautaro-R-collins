@@ -1,4 +1,4 @@
-### Welcome to my profile :wave:
+### Welcome to my profile :office:
 <!--
 **Lautaro-R-collins/Lautaro-R-collins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
