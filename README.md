@@ -69,7 +69,6 @@ Hi, I'm Lautaro, a full stack software developer with a focus on front-end devel
 
 -------------
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautaro-R-collins&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
   <picture>
@@ -106,11 +105,6 @@ Hi, I'm Lautaro, a full stack software developer with a focus on front-end devel
   <a href="https://www.instagram.com/lautarodevelops/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</div>
-
-<div align="left">
-  <h2>Check <a href="https://lautaro-rodriguez.onrender.com/" title="MY PORTFOLIO">MY PORTFOLIO</a></h2>
-  <img src="https://github.com/Lautaro-R-collins/mi-portfolio/assets/135086443/ca7a5a00-e30a-453c-aeb7-c50c05c21793" alt="Diseño sin título 8" />
 </div>
 
 
