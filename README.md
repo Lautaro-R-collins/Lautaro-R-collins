@@ -78,6 +78,10 @@ Hi, I'm Lautaro, a full stack software developer with a focus on front-end devel
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira logo" />
 </div>
 
+-------------
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautaro-R-collins&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## Contact me
 <div align="left">
