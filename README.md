@@ -4,11 +4,6 @@ Hi, welcome to my profile 💻
 
 ## About me 
 Hi, I'm Lautaro, a full stack software developer with a focus on front-end development and user experience. My strong suit lies in technologies like TypeScript and JavaScript, and I work with frameworks such as React and Node.js. I enjoy challenging myself to learn new technologies and strive to be constantly growing.
-#### Interests
-- ⌨️ Write code
-- 🏋️‍♂️ training
-- ♟️ Chess
-- 🎸 Music
 
 ## Technologies  
 ### Programming Languages
@@ -66,27 +61,6 @@ Hi, I'm Lautaro, a full stack software developer with a focus on front-end devel
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
--------------
-
-
-
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
--------------
 
 ## Contact me
 <div align="left">
