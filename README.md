@@ -73,7 +73,6 @@ Hi, I'm Lautaro, a full stack software developer with a focus on front-end devel
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello logo" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira logo" />
 </div>
--------------
 
 
 ## Contact me
